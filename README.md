@@ -1,6 +1,8 @@
 # Hi there, I'm Suraj Kumar 👋
 
 Welcome to my GitHub profile! I'm a data science enthusiast, currently working as a Research Volunteer at AMHR LAB at the University of South Florida. I have a strong interest in machine learning, cognitive computing, and full-stack development. I love tackling challenging problems and collaborating on innovative projects.
+
+Feel free to explore my repositories, and reach out if you're interested in collaboration or have any questions. 
 <!--
 ## 🎓 Education
 
