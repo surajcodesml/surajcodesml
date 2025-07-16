@@ -15,7 +15,7 @@ Feel free to explore my repositories, and reach out if you're interested in coll
   _Graduation: May 2024_
 
 
-## 🔬 Research & Publications
+## 🔬 Publications
 
 I'm actively involved in research, focusing on enhancing logical reasoning using advanced AI models. Some of my work includes:
 - **Improving Multi-hop Logical Reasoning in Small LMs with LoRA Training** [FLAIRS Journal Article](https://journals.flvc.org/FLAIRS/article/view/138643)  
@@ -34,7 +34,7 @@ I'm actively involved in research, focusing on enhancing logical reasoning using
   _Tampa, FL | Jan 2023 – May 2024_  
   - Assisted 80+ students with coursework and projects, holding weekly office hours and peer programming sessions.
   - Contributed to a measurable improvement in student performance through constructive feedback.
-## 🎖 Leadership & Volunteer Experience  
+## 🎖 Leadership  
 
 - **Hackathon Co-Director, Hackabull**  
   _Tampa, FL | May 2022 – May 2023_  
