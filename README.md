@@ -1,6 +1,22 @@
+# Hey there, I'm Suraj! 👋
+
+Welcome to my GitHub! I'm a PhD student at the University of Delaware diving deep into healthcare AI 🧠💻. I love building smart systems, solving real-world problems, and collaborating on cool projects.  
+
+When I’m not coding, you’ll probably find me on a pickleball court 🏓 chasing down every shot like my life depends on it or in the kitchen whipping up some spicy Indian food 🍛🔥.
+
+###  🎯 My Current Adventures
+- **PhD Candidate in Computer Science** @ University of Delaware 🎓
+- **Research Student** @ Nemours Children's Health – exploring the frontiers of healthcare AI 🏥🤖  
+- Former **Hackabull Co-Director** – led Tampa’s largest hackathon with 500+ attendees and $20K+ in sponsorships 🎉 
+
+Feel free to explore my repositories, and reach out if you're interested in collaboration or have any questions. 
+
+> _“Always curious, always building.”_
+
+<!--
 # Hi there, I'm Suraj! 👋
 
-Welcome to my GitHub profile! I'm a data science enthusiast, currently working as a Research Intern at Nemours Childrens' Hospital exploring the frontiers of healthcare AI. I have a strong interest in machine learning applications , healthcare AI, cognitive computing and full-stack development. I love tackling challenging problems and collaborating on innovative projects.
+Welcome to my GitHub profile! I'm a data science enthusiast, currently working as a Research Student at Nemours Children's Health exploring the frontiers of healthcare AI. I have a strong interest in machine learning applications , healthcare AI, cognitive computing and full-stack development. I love tackling challenging problems and collaborating on innovative projects.
 
 Feel free to explore my repositories, and reach out if you're interested in collaboration or have any questions. 
 
@@ -43,6 +59,7 @@ I'm actively involved in research, focusing on enhancing logical reasoning using
 - **VP of Communications, Society of Hispanic Professional Engineers**  
   _Tampa, FL | March 2022 – May 2023_  
   - Curated weekly newsletters for over 1100 STEM students and coordinated events like the annual Engineering Expo, enhancing student engagement by 22%.
+ -->
  
 
 <!--
