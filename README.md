@@ -6,7 +6,7 @@ Feel free to explore my repositories, and reach out if you're interested in coll
 
 ## 🎓 Education
 - **PhD Candidate in Computer Science**  
-  University of Delaware 
+  University of Delaware  
   _Graduation: May 2029_
   
 - **Bachelor of Science in Computer Science**  
@@ -18,9 +18,9 @@ Feel free to explore my repositories, and reach out if you're interested in coll
 ## 🔬 Research & Publications
 
 I'm actively involved in research, focusing on enhancing logical reasoning using advanced AI models. Some of my work includes:
-- **Improving Multi-hop Logical Reasoning in Small LMs with LoRA Training** [FLAIRS Journal Article](https://journals.flvc.org/FLAIRS/article/view/138643)
+- **Improving Multi-hop Logical Reasoning in Small LMs with LoRA Training** [FLAIRS Journal Article](https://journals.flvc.org/FLAIRS/article/view/138643)  
   Contributors: Onur Bilgin; Abdullah As Sami; Suraj Kumar; John Licato
-- **Curiosity Exploration Styles in Word Association Tasks** [CogSci 2025](https://cognitivesciencesociety.org/cogsci-2025/)
+- **Curiosity Exploration Styles in Word Association Tasks** [CogSci 2025](https://cognitivesciencesociety.org/cogsci-2025/)  
   Contributors: Stephen Steinle; My Doug; Suraj Kumar; John Licato
 
 ## 💼 Experience
@@ -34,7 +34,7 @@ I'm actively involved in research, focusing on enhancing logical reasoning using
   _Tampa, FL | Jan 2023 – May 2024_  
   - Assisted 80+ students with coursework and projects, holding weekly office hours and peer programming sessions.
   - Contributed to a measurable improvement in student performance through constructive feedback.
-## 🎖 Leadership & Volunteer Experience
+## 🎖 Leadership & Volunteer Experience  
 
 - **Hackathon Co-Director, Hackabull**  
   _Tampa, FL | May 2022 – May 2023_  
