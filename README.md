@@ -1,4 +1,4 @@
-# Hi there, I'm Suraj Kumar 👋
+# Hi there, I'm Suraj! 👋
 
 Welcome to my GitHub profile! I'm a data science enthusiast, currently working as a Research Intern at Nemours Childrens' Hospital exploring the frontiers of healthcare AI. I have a strong interest in machine learning applications , healthcare AI, cognitive computing and full-stack development. I love tackling challenging problems and collaborating on innovative projects.
 
