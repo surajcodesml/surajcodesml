@@ -18,10 +18,10 @@ Feel free to explore my repositories, and reach out if you're interested in coll
 ## 🔬 Research & Publications
 
 I'm actively involved in research, focusing on enhancing logical reasoning using advanced AI models. Some of my work includes:
-- **Improving Multi-hop Logical Reasoning in Small LMs with LoRA Training** (Submitted to FLAIRS 38)  
-  Collaborators: Onur Bilgin, John Licato
-- **Curiosity Exploration Styles in Word Association Tasks** (Submitted to CogSci 2025)  
-  Collaborators: Stephen Steinle, John Licato
+- **Improving Multi-hop Logical Reasoning in Small LMs with LoRA Training** [FLAIRS Journal Article](https://journals.flvc.org/FLAIRS/article/view/138643)
+  Contributors: Onur Bilgin; Abdullah As Sami; Suraj Kumar; John Licato
+- **Curiosity Exploration Styles in Word Association Tasks** [CogSci 2025](https://cognitivesciencesociety.org/cogsci-2025/)
+  Contributors: Stephen Steinle; My Doug; Suraj Kumar; John Licato
 
 ## 💼 Experience
 
