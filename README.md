@@ -6,8 +6,8 @@ When I’m not coding, you’ll probably find me on a pickleball court 🏓 chas
 
 ###  🎯 My Adventures
 - **PhD Candidate in Computer Science** @ University of Delaware 🎓
-- **Research Student** @ Nemours Children's Health – exploring the frontiers of healthcare AI 🏥🤖  
-- Former **Hackabull Co-Director** – led Tampa’s largest hackathon with 500+ attendees and $20K+ in sponsorships 🎉 
+- **Research Student** @ Nemours Children's Health 🏥🤖  
+- Former **Hackabull Co-Director** – Tampa’s largest hackathon with 500+ attendees and $20K+ in sponsorships 🎉 
 
 Feel free to explore my repositories, and reach out if you're interested in collaboration or have any questions. 
 
