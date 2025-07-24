@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a PhD student at the University of Delaware diving dee
 When I’m not coding, you’ll probably find me on a pickleball court 🏓 chasing down every shot like my life depends on it or in the kitchen whipping up some spicy Indian food 🍛🔥.
 
 ###  🎯 My Adventures
-- **PhD Candidate in Computer Science** @ University of Delaware 🎓
+- **PhD Student in Computer Science** @ University of Delaware 🎓
 - **Research Student** @ Nemours Children's Health 🏥🤖  
 - Former **Hackabull Co-Director** – Tampa’s largest hackathon with 500+ attendees and $20K+ in sponsorships 🎉 
 
