@@ -11,8 +11,6 @@ When I’m not coding, you’ll probably find me on a pickleball court 🏓 chas
 
 Feel free to explore my repositories, and reach out if you're interested in collaboration or have any questions. 
 
-> _“Always curious, always building.”_
-
 <!--
 # Hi there, I'm Suraj! 👋
 
